@@ -2,7 +2,7 @@
   "dependencies": {
     "hardhat": "^2.9.9"
   },
-  "name":"hardhat fund me ",
+  "name":"hardhat_fund_me",
   "author": "kostisssss",
   "version": "1.0.0",
   "devDependencies": {
